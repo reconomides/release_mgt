@@ -233,6 +233,8 @@
     </Content>
     <None Include="Properties\PublishProfiles\release_mgt.pubxml" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
+    <Content Include="Images\image2.bmp" />
+    <Content Include="Images\logo.bmp" />
     <Content Include="Scripts\ai.0.22.9-build00167.js" />
     <Content Include="Scripts\ai.0.22.9-build00167.min.js" />
     <Content Include="Scripts\bootstrap.js" />
@@ -471,7 +473,7 @@
       </FlavorProperties>
     </VisualStudio>
   </ProjectExtensions>
- <!-- 
+  <!-- 
  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
     <PropertyGroup>
       <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>

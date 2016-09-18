@@ -3,8 +3,12 @@
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
 
     <div class="jumbotron">
-        <h1>Automic 4</h1>
-        <p class="lead">ASP.NET is a free web framework for building great Web sites and Web applications using HTML, CSS, and JavaScript.</p>
+        <h1>Release Management</h1>
+        <p class="lead">The importance of Continuous Integration and Continuous Development within Release management is to ensure organizations are able to; </p>
+        <p class="lead">1.&nbsp;&nbsp; Understand the current state of release management </p>
+        <p class="lead">2.&nbsp;&nbsp; Establish cadence within a release cycle </p>
+        <p class="lead">3.&nbsp;&nbsp; Get lightweight processes in place, test them early and review them regularly </p>
+        <p class="lead">4.&nbsp;&nbsp; Automate and standardize as much as you can </p>
         <p><a href="http://www.asp.net" class="btn btn-primary btn-lg">Learn more &raquo;</a></p>
     </div>
 
@@ -12,27 +16,24 @@
         <div class="col-md-4">
             <h2>Getting started</h2>
             <p>
-                ASP.NET Web Forms lets you build dynamic websites using a familiar drag-and-drop, event-driven model.
-            A design surface and hundreds of controls and components let you rapidly build sophisticated, powerful UI-driven sites with data access.
-            </p>
+                Automate application deployments through your environments. Designed to facilitate rapid feedback and continuous delivery in agile development while providing the security, audit trails, versioning and approvals needed in production.</p>
             <p>
                 <a class="btn btn-default" href="http://go.microsoft.com/fwlink/?LinkId=301948">Learn more &raquo;</a>
             </p>
         </div>
         <div class="col-md-4">
-            <h2>Get more libraries</h2>
+            <h2>Continuous Integration</h2>
             <p>
-                NuGet is a free Visual Studio extension that makes it easy to add, remove, and update libraries and tools in Visual Studio projects.
+                Integrate code into a shared repository to meet your business needs. Each check-in is then verified by an automated build, allowing teams to detect problems early.
             </p>
             <p>
                 <a class="btn btn-default" href="http://go.microsoft.com/fwlink/?LinkId=301949">Learn more &raquo;</a>
             </p>
         </div>
         <div class="col-md-4">
-            <h2>Web Hosting</h2>
+            <h2>Continuous Development</h2>
             <p>
-                You can easily find a web hosting company that offers the right mix of features and price for your applications.
-            </p>
+                Integration with build systems and continuous deployment</p>
             <p>
                 <a class="btn btn-default" href="http://go.microsoft.com/fwlink/?LinkId=301950">Learn more &raquo;</a>
             </p>
