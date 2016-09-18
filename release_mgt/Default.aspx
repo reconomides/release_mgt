@@ -3,7 +3,7 @@
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
 
     <div class="jumbotron">
-        <h1>Release Managemente</h1>
+        <h1>Release Managemente Lifecycle</h1>
         <p class="lead">The importance of Continuous Integration and Continuous Development within Release management is to ensure organizations are able to; </p>
         <p class="lead">1.&nbsp;&nbsp; Understand the current state of release management </p>
         <p class="lead">2.&nbsp;&nbsp; Establish cadence within a release cycle </p>
